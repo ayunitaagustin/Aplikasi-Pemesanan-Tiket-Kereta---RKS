@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PemesananTiket</string>
+    <string name="button_not_register" />
+    <string name="password">Password</string>
+    <string name="pemesanan_tiket_by_ayunita_agustin_2020">© Pemesanan Tiket by Ayunita Agustin 2020</string>
+    <string name="travel_apps_booking">Travel Apps Booking</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="todo">TODO</string>
+    <string name="tujuan">Tujuan</string>
+    <string name="waktu_perjalanan">Waktu Perjalanan</string>
+    <string name="tanggal_berangkat">Tanggal Berangkat</string>
+    <string name="jumlah">JUMLAH</string>
+    <string name="dewasa">Dewasa</string>
+    <string name="anak_anak">Anak-anak</string>
+    <string name="myticket_com">MyTicket.com</string>
+    <string name="profile">PROFILE</string>
+    <string name="riwayat">RIWAYAT</string>
+    <string name="booking_nkereta">BOOKING\nKERETA</string>
+    <string name="booking_nhotel">BOOKING\nHOTEL</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="myticket_com_booking">MyTicket.com Booking</string>
+    <string name="booking_sekarang">Booking Sekarang</string>
+    <string name="tidak_ada_riwayat_booking">Tidak Ada Riwayat Booking</string>
+    <string name="daftar_penyewa">Daftar Penyewa</string>
+    <string name="nama">Nama :</string>
+    <string name="email">Email :</string>
+    <string name="ayunita_agustin_aa_gmail_com">ayunita.agustin.aa@gmail.com</string>
+    <string name="register">Register</string>
+    <string name="batal" />
+    <string name="keluar" />
+    <string name="login">Login</string>
+    <string name="belum_punya_akun_daftar_sekarang">Belum punya akun? Daftar Sekarang</string>
+    <string name="sudah_memiliki_akun_login_sekarang">Sudah memiliki akun? Login Sekarang</string>
+    <string name="ka_antar_kota">KA ANTAR KOTA</string>
+</resources>
