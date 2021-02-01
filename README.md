@@ -5,6 +5,9 @@ Pada aplikasi pemesanan tiket kereta api yang telah saya buat dengan nama "MyTic
 Berikut Link Folder UTS yang berisi wirefrime, workflow, dan dokumentasi kebutuhan :
 https://drive.google.com/drive/folders/1hqa_MBMWi03EBzN6HduX5BDMppd_HMwt?usp=sharing
 
+Berikut file aplikasi yang digunakan :
+
+
 A. LAYOUT :
 
 - activity_book_kereta.xml
