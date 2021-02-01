@@ -6,7 +6,6 @@ Berikut Link Folder UTS yang berisi wirefrime, workflow, dan dokumentasi kebutuh
 https://drive.google.com/drive/folders/1hqa_MBMWi03EBzN6HduX5BDMppd_HMwt?usp=sharing
 
 Berikut Link Video Running Program :
-
 https://drive.google.com/drive/folders/19YR44v9ipq-4IrG1RD9Rg_mYKznyh-dO?usp=sharing
 
 Berikut file aplikasi yang digunakan :
